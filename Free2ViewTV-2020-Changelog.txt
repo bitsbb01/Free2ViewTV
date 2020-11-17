@@ -41,6 +41,12 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 11/12/2020 - MAINTENANCE + NEW: Updated several stream URLs in "Financial News & Info", added Business Rockstars.
+# Update: 11/11/2020 - TEMPORARY CHANNEL ADDED: Le Canal Nouvelles temporarily unscrambled, added to "Canadian TV" category.
+# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Updated Cheddar live stream in "News & Weather" and "Financial News & Info" groups.
+# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Cleaned up "News & Weather" group; updated WeatherNation (also in TV25 group).
+# Update: 11/04/2020 - NEW CHANNELS: Started "The Roku Channel" with channels in each category; more to be added in each update.
+# Update: 11/03/2020 - NEW CHANNEL ADDED: CNN | Event Stream added (this is NOT the CNN Network feed, only free public events).
 # Update: 10/31/2020 - NEW CHANNEL ADDED: Added VSiN | Webstream (Sports & Recreation) from https://www.vsin.com/livestream/
 # Update: 10/31/2020 - NEW CHANNEL ADDED: Added Poker Night In America (Sports & Recreation) from https://www.glewed.tv/
 # Update: 10/30/2020 - CHANNEL MAINTENANCE: Updated live stream URL for CBS Sports HQ (CBS News; Sports & Recreation).
